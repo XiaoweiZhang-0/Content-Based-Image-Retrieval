@@ -11,6 +11,7 @@ Makefile
 data.txt
 *.csv
 startProject
-image_database/*
+image_database/
 .DS_Store
 trainingSet/*
+reportFiles/
