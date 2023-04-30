@@ -1,8 +1,8 @@
 *.MOV
 *.avi
 *.jpeg
-CMAKEFILES/*
-.vscode/*
+CMAKEFILES/
+.vscode/
 calibration.yml
 cmake_install.cmake
 CMakeCache.txt
@@ -13,5 +13,6 @@ data.txt
 startProject
 image_database/
 .DS_Store
-trainingSet/*
+trainingSet/
 reportFiles/
+vectorFiles/
